@@ -1,0 +1,1 @@
+the idea is to make a small puzzle game where a car has to move from start to end on a grid. The road pieces are all scrambled and you can to move and rotate them to form a path to the end.
